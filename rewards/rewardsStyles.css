@@ -27,16 +27,18 @@
 
 
 
+
+
 @media only screen and (max-width:600px){
 
     .carousel{
         height: 900px;
          perspective: 600px;
-         /* margin-bottom: 900px; */
+         
     
     }
     .carousel .carousel-item{
-        width: 150px;
+        width: 200px;
     }
 
     .rewardscaro{
